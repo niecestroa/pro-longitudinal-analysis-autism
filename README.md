@@ -6,6 +6,37 @@ The result is both a technical comparison and a narrative about reproducibility,
 
 ---
 
+## Installation
+
+```bash
+git clone https://github.com/niecestroa/pro-longitudinal-analysis-autism.git
+
+cd pro-longitudinal-analysis-autism
+
+pip install -r requirements.txt
+```
+
+## Skills Demonstrated
+
+- Longitudinal Data Analysis
+- Repeated Measures Modeling
+- Mixed Effects Models
+- Biostatistics
+- Developmental Health Research
+- Statistical Inference
+- Clinical Data Analysis
+- Hypothesis Testing
+- Model Diagnostics
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Python Programming
+- SAS Programming
+- R Programming
+- Reproducible Research
+
+---
+
 # **1. Motivation**
 Mixed‑effects models are foundational in longitudinal biomedical research. Yet the tooling landscape is fragmented:
 
@@ -201,3 +232,8 @@ Together, the four workflows form a complete, reproducible, cross‑language ana
 
 This README is not just documentation — it’s a narrative about your analytical identity.
 
+---
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
