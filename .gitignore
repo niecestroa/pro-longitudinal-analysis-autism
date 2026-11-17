@@ -1,32 +1,39 @@
 # Python
 __pycache__/
 *.py[cod]
+*$py.class
 
-# Virtual environments
 venv/
 .venv/
 env/
+ENV/
 
-# Jupyter
 .ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
 
 # IDEs
 .vscode/
 .idea/
 
-# Environment variables
-.env
-
 # Testing
 .pytest_cache/
 .coverage
+htmlcov/
 
 # Build files
 build/
 dist/
 *.egg-info/
 
-# Reports and output
+# Environment variables
+.env
+
+# Outputs
 outputs/
 figures/
 reports/
